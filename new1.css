@@ -1,0 +1,41 @@
+    
+*{
+    font-family: "Montserrat", sans-serif;
+    
+}
+html,body{
+    overflow-x: hidden;
+}
+
+.bg1{
+    background-color:black;
+    color:whitesmoke;
+    font-size:20px;
+}
+.h1{
+    color:black;
+    font-size:18px;
+    margin-top:40px !important;
+   
+}
+.line{
+    
+    width:560px!important;
+    height:4px;
+   background-color:orange;
+   margin-left:-100px auto;
+   border-radius:10px;
+   margin-bottom:15px;
+}
+.main2 img{
+    width: 100px;
+    height: 100px;
+    align-item:center;
+}
+.aa{
+    display:flex;
+    justify-content:space-evenly;
+}
+.xx{
+    color:orange;
+}
